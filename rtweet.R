@@ -38,6 +38,7 @@ tweets  # See the tweets you just harvested in the console
 
 tweets <- search_tweets("#futureofclothing OR #textiles", n = 25000, retryonratelimit = TRUE, include_rts = FALSE)
 
+
 # Step 6. Plot tweet locations on a simple map (the tweets that are geotagged)
 
 tweets <- lat_lng(tweets) # create latitude and longitude columns in the dataset
