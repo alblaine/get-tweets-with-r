@@ -14,6 +14,7 @@ In order to use this, you will need the following:
 
 Please read and carefully follow these instructions for setting up your Twitter app: [http://rtweet.info/articles/auth.html](http://rtweet.info/articles/auth.html)
 
+#### Troubleshooting 
 
 Even with following setup perfectly, you may get an error when trying to harvest tweets. A common error is not having the **httpuv** package installed in R. 
 To fix that, type the following in the console and hit enter: 
