@@ -7,8 +7,8 @@ See more info on this package: [http://rtweet.info](http://rtweet.info).
 
 In order to use this, you will need the following:
 * R installed on your computer
-* a Twitter app - create your own at [http://apps.twitter.com](apps.twitter.com). Make sure to set the callback URL at 
-* R Studio (optional but recommended)
+* a Twitter app - create your own at [http://apps.twitter.com](apps.twitter.com).
+* R Studio (recommended but not required)
 
 #### Setup
 
